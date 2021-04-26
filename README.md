@@ -7,7 +7,7 @@
     <link href="style.css" rel="stylesheet" type="text/css" />
     <style> 
     #myHeader{
-      color:black;
+     color:black;
       padding:30px;
       text-align:center;
     }
